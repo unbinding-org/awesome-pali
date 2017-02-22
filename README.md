@@ -11,3 +11,7 @@
 ## Papers
 
 - [Morphological analyzer and generator for Pali](https://arxiv.org/pdf/1510.01570.pdf) -  a first step in the direction of the morphological analysis of Pali.
+
+## Courses
+
+[Bhikkhu Bodhi's A Course in the Pali Language](http://bodhimonastery.org/a-course-in-the-pali-language.html) - Designed to help you to learn the basics of Pali grammar and vocabulary through direct study of selections from the Buddha’s discourses. It aims to enable you to read the Buddha’s discourses in the original as quickly as possible.
