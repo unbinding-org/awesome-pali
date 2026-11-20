@@ -19,3 +19,4 @@
 ## Resources
 
 - [Buddha Vacana](http://www.buddha-vacana.org/index.html) - Pali suttas with a word by word translation in English or French next to each line.
+- [Pramāṇa](https://indike.org/pramana/in.bauddha.theravada) - the Pāli canon with SuttaCentral's translations (and older public-domain ones) and the aṭṭhakathās aligned verse by verse, e.g. [Dhammapada 1](https://indike.org/pramana/in.bauddha.theravada.sp.khuddaka.dhammapada.1); open API and an openly licensed data release.
